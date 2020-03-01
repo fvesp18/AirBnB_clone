@@ -1,7 +1,9 @@
 .filters {
     display: flex;
+    justify-content: left;
     align-items: center;
-    justify-content: space-evenly;
+    margin: 0;
+    max-height: 100%;
     background-color: #FFFFFF;
     height: 70px;
     width: 100%;
