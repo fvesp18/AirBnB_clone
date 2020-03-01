@@ -86,9 +86,8 @@ button {
     color: #FFFFFF;
     height: 48px;
     width: 20%;
+    margin-right: 30px;
     justify-content: center;
-    align-items: center;
-    text-align: center;
     border: 0px;
     border-radius: 4px;
 }
