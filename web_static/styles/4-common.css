@@ -38,10 +38,12 @@ body {
 }
 .locations h3 {
     display: flex;
+    margin-left: 30px;
     font-weight: 600;
 }
 .locations h4 {
     display: flex;
+    margin-left: 30px;
     font-weight: 400;
     font-size: 14px;
 }
@@ -56,12 +58,26 @@ body {
 }
 .amenities h3 {
     display: flex;
+    margin-left: 30px;
     font-weight: 600;
 }
 .amenities h4 {
     display: flex;
+    margin-left: 30px;
     font-weight: 400;
     font-size: 14px;
+}
+.popover {
+    display: none;
+    background-color: #FAFAFA;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+}
+.locations:hover{
+    display: block;
+}
+.amenities:hover{
+    display: block;
 }
 button {
     display: flex;
