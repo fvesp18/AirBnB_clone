@@ -5,6 +5,9 @@ header {
     background-position: 20px center;
     background-position-y: top;
     background-repeat: no-repeat;
+    display: flex;
+    flex-shrink: 1;
+    align-self: flex-start;
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;

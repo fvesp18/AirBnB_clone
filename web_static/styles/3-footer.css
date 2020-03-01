@@ -1,10 +1,15 @@
 footer {
+    display: flex;
+    flex-shrink: 1;
     background-color: #FFFFFF;
-    position: absolute; 
-    bottom: 0px; 
     height: 60px;
     width: 100%;
     border-top: 1px solid #CCCCCC;
+    position: absolute; 
+    bottom: 0px; 
+    align-self: flex-end;
+    align-items: center;
+    justify-content: center;
 }
 footer p {
     text-align: center;
