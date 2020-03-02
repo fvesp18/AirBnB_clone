@@ -1,0 +1,11 @@
+.places {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.places h1 {
+    font-size: 30px;
+}
