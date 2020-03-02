@@ -1,0 +1,12 @@
+.filters {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 0;
+    max-height: 100%;
+    background-color: #FFFFFF;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+}
